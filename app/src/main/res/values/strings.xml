@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Directorio de  Tienda</string>
+    
+    <string name="tienda_title_pista">Ingresar el titulo de la tienda.</string>
+    <string name="tienda_title_etiqueta">Nombre de la tienda</string>
+    <string name="tienda_details_pista">Ingresar el telefono de la tienda </string>
+    <string name="tienda_solved_etiqueta">Telefono de la tienda</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
